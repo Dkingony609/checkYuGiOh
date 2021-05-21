@@ -38,4 +38,4 @@ function checkYuGiOh(n) {
   }
 }
 
-checkYuGiOh("r44px");
+checkYuGiOh(10);
